@@ -1,7 +1,15 @@
 # **Pixel Timer**
 ### **A Minecraft Java Edition Timer Datapack.**
+**1. Just download the zip file from [here](https://github.com/Pixel-Master/Timer/).**
 
+**2. Drop it into Minecraft**
 
+**3. Enjoy!**
+ 
+## You can find a more detailed description [here](https://github.com/Pixel-Master/Timer/tree/main/Install.md)!
+ 
+## Download
+just download the zip file from [here](https://github.com/Pixel-Master/Timer/archive/refs/heads/main.zips) and drop it into Minecraft
 ## Getting help:
 `/function timer:help`
 ###       Timer Help: 
@@ -14,7 +22,7 @@
 
  use `/function timer:start`
  
-**3. Pause:​**
+**3. Pause:**
 
  use `/function timer:pause`
  
@@ -40,8 +48,14 @@
  
 ### Creator:
 
- **Pixel Mqster** [[YouTube](YouTube.com/PixelMqsterMC)],[[GitHub](https://github.com/Pixel-Master)]
+ **Pixel Mqster** [[YouTube]](YouTube.com/PixelMqsterMC),[[GitHub](https://github.com/Pixel-Master)]
  
 ### Links:
 
- [Download Mod(comming sooon)],[[Download Datapack](https://github.com/Pixel-Master/Timer/archive/refs/heads/main.zip)],[[Source Code](https://github.com/Pixel-Master/Timer)]
+ [Download Mod(comming sooon)],[[Download Datapack](https://github.com/Pixel-Master/Timer/archive/refs/heads/main.zi)],[[Source Code](https://github.com/Pixel-Master/Timer)]
+##  Where are the Files?
+The "Head" is in the [directory](https://github.com/Pixel-Master/Timer/tree/main/data/timer/functions) `data/timer/functions`.
+
+If you want to know what each function does look in the Getting Help-section above.
+
+There is one exception: ` auto/timer.mcfunction` It's just always active.
