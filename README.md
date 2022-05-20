@@ -1,15 +1,16 @@
 # **Pixel Timer**
 ### **A Minecraft Java Edition Timer Datapack.**
+
+## Installation
+
 **1. Just download the zip file from [here](https://github.com/Pixel-Master/Timer/).**
 
 **2. Drop it into Minecraft**
 
 **3. Enjoy!**
  
-## You can find a more detailed description [here](https://github.com/Pixel-Master/Timer/tree/main/Install.md)!
+### You can find a more detailed description [here](https://github.com/Pixel-Master/Timer/tree/main/Install.md)!
  
-## Download
-just download the zip file from [here](https://github.com/Pixel-Master/Timer/archive/refs/heads/main.zips) and drop it into Minecraft
 ## Getting help:
 `/function timer:help`
 ###       Timer Help: 
