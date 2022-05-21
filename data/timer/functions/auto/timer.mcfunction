@@ -1,4 +1,4 @@
-execute if score #time status matches 1 run title @a actionbar ["",{"text":"§f§l","bold":"true"},{"score":{"name":"#time","objective":"stunden"}},{"text":"§r:§l§4"},{"score":{"name":"#time","objective":"minuten"}},{"text":"§r:§l"},{"score":{"name":"#time","objective":"sekunden"}},{"text":""}]
+execute if score #time status matches 1 run title @a actionbar ["",{"text":"§f§l","bold":"true"},{"score":{"name":"#time","objective":"hour"}},{"text":"§r:§l§4"},{"score":{"name":"#time","objective":"minute"}},{"text":"§r:§l"},{"score":{"name":"#time","objective":"second"}},{"text":""}]
 execute if score #time status matches 3 run title @a actionbar "§l§2The Timer §fis §4over!"
 execute if score #time status matches 2 run title @a actionbar "§l§2The Timer §fis §2paused!"
 execute if score #time second matches 60 run scoreboard players add #time minute 1
