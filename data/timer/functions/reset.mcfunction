@@ -4,4 +4,4 @@ scoreboard players set #time minute 0
 scoreboard players set #time hour 0
 scoreboard players set #time tick 0
 scoreboard players set #time show 0
-tellraw @a {"text":"§lTimer §rreseted!"}
+tellraw @s {"text":"§lThe Pixel Timer §rwas succesfull §8reseted!"}

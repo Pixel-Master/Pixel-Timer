@@ -1,2 +1,2 @@
 scoreboard players set #time status 2
-tellraw @a {"text":"§l§4Timer §r§cpaused!"}
+tellraw @a {"text":"§3§lPixel Timer §r§cpaused!"}

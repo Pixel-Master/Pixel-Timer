@@ -2,5 +2,5 @@
 scoreboard players set #time status 1
 scoreboard players set #time show 1
 title @a title "§l§4Timer §rstarted!"
-tellraw @a {"text":"§l§3 Pixel Timer §r§2started!"}
+tellraw @a {"text":"§3§lPixel Timer §2started!"}
 playsound minecraft:entity.ender_dragon.growl ambient @a
