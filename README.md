@@ -15,37 +15,38 @@
 `/function timer:help`
 ###    Pixel Timer Help: 
 
-**1. Install**  (normally it does automatically on load)**:**
+**- Install**  (normally it does automatically on load)**:**
 
  use `/function timer:install`
  
-**2. Start:**
+**- Start:**
 
  use `/function timer:start`
  
-**3. Pause:**
+**- Pause:**
 
  use `/function timer:pause`
  
-**5. Reset:**
+**- Reset:**
  
  use `/function timer:reset`
  
-**6. Hide:**
+**- Settings Help:**
 
- use `/function timer:show/off`
+ use `/function timer:settings/help`
  
-**7. Show:**
+**- Updates/Version::**
  
- use `/function timer:show/on`
+ use `/function timer:version`
  
-**8. Uninstall:**
-
- use `/function timer:uninstall` and remove the Datapack/Mod
  
-**9. Finish:**
+**- Finish:**
 
  use `/function timer:end`
+ 
+**- Uninstall:**
+
+ use `/function timer:uninstall` and remove the Datapack/Mod
  
 ### Creator:
 
