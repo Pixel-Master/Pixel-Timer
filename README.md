@@ -1,5 +1,10 @@
-# **Pixel Timer**
-### **A Minecraft Java Edition Timer Datapack.**
+# Pixel Timer
+## A Minecraft Java Edition Timer Datapack.
+**You have to acitvate Cheats in your World to use this Datapack.**
+
+The Pixel Timer is a customizable Minecraft Timer Datapack that is also available as a mod.
+The Datapack version needs to be aplied to each world.
+With the mod you will just have to install it and the commands will be available in every world that has Cheats activated as long as the mod is installed.
 
 ## Installation
 
