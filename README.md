@@ -1,4 +1,10 @@
+<img src="https://raw.githubusercontent.com/Pixel-Master/Pixel-Timer/main/pack.png" width="110">
 # Pixel Timer
+
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/pixel-master/pixel-timer)
+[<img src="https://pixabay.com/get/g096390c9f60674cfa056db1162be78bfdc84e91560cc9ec77f4e2a628a4f44b843b5f0d19be4f9ec2ea6e115ce37c7e0301bf419dbb6bd7596830fe27ea2f51e5924ee69c67298005505423735b0db8d_1280.png" width="50">](https://github.com/Pixel-Master/Pixel-Timer/realeases)
+[<img src="https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s88-c-k-c0x00ffffff-no-rj" width="60">](https://www.youtube.com/PixelMasterMC)
+
 ## A Minecraft Java Edition Timer Datapack.
 **You have to acitvate Cheats in your World to use this Datapack.**
 
@@ -65,4 +71,4 @@ The "Head" is in the [directory](https://github.com/Pixel-Master/Pixel-Timer/tre
 
 If you want to know what each function does look in the Getting Help-section above.
 
-There is one exception: ` auto/timer.mcfunction` It's just always active.
+There is one exception: ` auto/timer.mcfunction` It's just always active.![](![]())
