@@ -5,6 +5,8 @@ scoreboard objectives remove hour
 scoreboard objectives remove status
 scoreboard objectives remove show
 scoreboard objectives remove settings
+bossbar set pixeltimer visible false
+bossbar remove pixeltimer
 gamerule sendCommandFeedback true
 gamerule commandBlockOutput true
-tellraw @s "§lThe Pixel Timer§r is completely §4removed§r from the world\n§rto install it again use §4/function timer:install§r or just rejoin the world"
+tellraw @s ["",{"text":"The "},{"text":"Pixel Timer","bold":true,"clickEvent":{"action":"open_url","value":"https://Pixel-Master.github.io/Pixel-TImer/"}},{"text":" is","color":"gray"},{"text":" removed","bold":true,"color":"dark_red"},{"text":" from this world, to prevent installing at rejoin remove the Datapack from this World or use","color":"gray"},{"text":" /datapack disable \"file/Pixel-Timer\"","color":"dark_red","clickEvent":{"action":"suggest_command","value":"/datapack disable \"file/Pixel-Timer\""}},{"text":".\n\nTo install it again use ","color":"gray"},{"text":"/datapack enable \"file/Pixel-Timer\"","color":"dark_green","clickEvent":{"action":"suggest_command","value":"/datapack enable \"file/Pixel-Timer\""}},{"text":" and ","color":"gray"},{"text":"/function timer:install","color":"dark_green","clickEvent":{"action":"suggest_command","value":"/function timer:install"}},{"text":" ","color":"#CE9178"}]
