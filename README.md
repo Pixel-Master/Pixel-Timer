@@ -1,13 +1,7 @@
-<img src="https://raw.githubusercontent.com/Pixel-Master/Pixel-Timer/main/pack.png" width="110">
-
+![](https://user-content.gitlab-static.net/99ebd5956959b3f8f02920ec46854689218d0c11/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f506978656c2d4d61737465722f506978656c2d54696d65722f6d61696e2f7061636b2e706e67)
 # Pixel Timer
-
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/pixel-master/pixel-timer)
-[<img src="https://cdn.pixabay.com/photo/2016/12/18/13/44/download-1915749_960_720.png" width="50">](https://github.com/Pixel-Master/Pixel-Timer/realeases)
-[<img src="https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s88-c-k-c0x00ffffff-no-rj" width="60">](https://www.youtube.com/PixelMasterMC)
-
 ## A Minecraft Java Edition Timer Datapack.
-**You have to acitvate Cheats in your World to use this Datapack.**
+**You have to activate Cheats in your World to use this Datapack.**
 
 The Pixel Timer is a customizable Minecraft Timer Datapack that is also available as a mod.
 The Datapack version needs to be aplied to each world.
@@ -21,7 +15,6 @@ With the mod you will just have to install it and the commands will be available
 
 **3. Enjoy!**
  
-### You can find a more detailed description [here](https://github.com/Pixel-Master/Pixel-Timer/tree/main/Install.md)!
  
 ## Getting help:
 `/function timer:help`
@@ -62,14 +55,14 @@ With the mod you will just have to install it and the commands will be available
  
 ### Creator:
 
- **Pixel Mqster** [[YouTube](YouTube.com/PixelMqsterMC)],[[GitHub](https://github.com/Pixel-Master)]
+ **Pixel Mqster** [[YouTube](https://YouTube.com/PixelMqsterMC)],[[GitHub](https://gitlab.com/Pixel-Mqster)]
  
 ### Links:
 
- [Download Mod(comming sooon)],[[Download Datapack](https://github.com/Pixel-Master/Pixel-Timer/archive/refs/heads/main.zip)],[[Source Code](https://github.com/Pixel-Master/Pixel-Timer)]
+ [Download Mod(comming sooon)],[[Download Datapack](https://github.com/Pixel-Master/Pixel-Timer/archive/refs/heads/main.zip)],[[Source Code](https://gitlab.com/Pixel-Mqster/Pixel-Timer)]
 ##  Where are the Files?
-The "Head" is in the [directory](https://github.com/Pixel-Master/Pixel-Timer/tree/main/data/timer/functions) `data/timer/functions`.
+The "Head" is in the [directory](https://gitlab.com/Pixel-Mqster/Pixel-Timer/tree/main/data/timer/functions) `data/timer/functions`.
 
 If you want to know what each function does look in the Getting Help-section above.
 
-There is one exception: ` auto/timer.mcfunction` It's just always active.![](![]())
+There is one exception: ` auto/timer.mcfunction` It's just always active.
