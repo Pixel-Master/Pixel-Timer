@@ -55,7 +55,7 @@ With the mod you will just have to install it and the commands will be available
  
 ### Creator:
 
- **Pixel Mqster** [[YouTube](https://YouTube.com/PixelMqsterMC)],[[GitHub](https://gitlab.com/Pixel-Mqster)]
+ **Pixel Mqster** [[GitHub](https://gitlab.com/Pixel-Mqster)]
  
 ### Links:
 
